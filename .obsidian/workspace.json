@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-编程语言/Python/模块（Module）.md",
+                "file": "03-编程语言/Rust/Cargo/Cargo.lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模块（Module）"
+              "title": "Cargo.lock"
             }
           }
         ],
@@ -225,13 +225,23 @@
               "icon": "lucide-list",
               "title": "未命名 的大纲"
             }
+          },
+          {
+            "id": "c118e0759ac25c28",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,13 +251,31 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "edef55dcba1ed66a",
   "lastOpenFiles": [
-    "03-编程语言/Python/命名空间（NameSpace）.md",
+    "03-编程语言/Rust/Cargo/Cargo（构建系统和包管理器）.md",
+    "03-编程语言/Rust/Cargo/Cargo.lock.md",
+    "03-编程语言/Rust/Cargo/Registry（注册表，仓库）.md",
+    "03-编程语言/Rust/引用（reference）.md",
+    "03-编程语言/Rust/变体（variant）.md",
+    "03-编程语言/Rust/Crates.md",
+    "03-编程语言/Rust/Cargo/Cargo.toml.md",
+    "03-编程语言/Rust/Cargo",
+    "00-Inbox/TOML.md",
+    "未命名.md",
+    "03-编程语言/Rust/基础语法.md",
+    "03-编程语言/Rust/rust macro（rust宏）.md",
+    "03-编程语言/Rust/Rustc.md",
+    "03-编程语言/Rust/安装.md",
+    "03-编程语言/Rust/Rustup.md",
+    "03-编程语言/Rust/rust-analyzer.md",
     "03-编程语言/Python/模块（Module）.md",
+    "03-编程语言/Rust",
+    "03-编程语言/Python/命名空间（NameSpace）.md",
     "03-编程语言/Python/脚本（Script）.md",
     "03-编程语言/Python/作用域（Scope）.md",
     "03-编程语言/Python/类.md",
@@ -255,32 +283,15 @@
     "03-编程语言/Python",
     "未命名",
     "03-编程语言",
-    "00-Inbox/未命名.md",
-    "未命名.md",
     "00-Inbox 1/Git SSH设置代理.md",
     "00-Inbox 1/npx.md",
     "00-Inbox 1/简历.md",
     "00-Inbox 1/安装Miniconda.md",
     "00-Inbox 1/node包管理器.md",
     "00-Inbox 1",
-    "01-Areas/AI/Agent/Deepagents.md",
-    "01-Areas/AI/Agent/LangGraph.md",
-    "01-Areas/AI/Agent/MCP.md",
-    "01-Areas/AI/Agent/A2A.md",
-    "01-Areas/AI/Agent/LangSmith.md",
     "01-Areas/AI/Agent",
-    "01-Areas/AI/Huggingface.md",
-    "00-Inbox/npx.md",
-    "00-Inbox/node包管理器.md",
-    "00-Inbox/简历.md",
-    "00-Inbox/安装Miniconda.md",
-    "01-Areas/AI/向量数据库.md",
-    "01-Areas/AI/训练芯片.md",
-    "01-Areas/AI/芯片.md",
     "02-Projects/借贷项目",
     "01-Areas/金融",
-    "01-Areas/AI",
-    "02-Projects/NFT-Market",
-    "02-Projects"
+    "01-Areas/AI"
   ]
 }
