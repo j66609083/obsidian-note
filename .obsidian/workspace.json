@@ -6,7 +6,6 @@
       {
         "id": "78ff783c950e7a90",
         "type": "tabs",
-        "dimension": 70.58823529411765,
         "children": [
           {
             "id": "2c4530098317c31d",
@@ -56,33 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-编程语言/Rust/Cargo/Cargo.lock.md",
+                "file": "03-编程语言/Rust/基础语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cargo.lock"
+              "title": "基础语法"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "c8bbefe14aa28aa1",
-        "type": "tabs",
-        "dimension": 29.411764705882355,
-        "children": [
-          {
-            "id": "7c83c647af0bc5e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -217,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Projects/借贷项目/未命名.md",
+                "file": "03-编程语言/Rust/基础语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "基础语法 的大纲"
             }
           },
           {
@@ -255,9 +237,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edef55dcba1ed66a",
+  "active": "c118e0759ac25c28",
   "lastOpenFiles": [
+    "03-编程语言/Rust/作用域.md",
+    "03-编程语言/Rust/基础语法.md",
     "03-编程语言/Rust/Cargo/Cargo（构建系统和包管理器）.md",
+    "03-编程语言/Python/模块/模块（Module）.md",
+    "03-编程语言/Solidity",
+    "03-编程语言/Golang",
+    "03-编程语言/Python/模块/标准模块.md",
+    "03-编程语言/Python/包（package）.md",
+    "03-编程语言/Python/闭包.md",
+    "03-编程语言/Python/类.md",
+    "03-编程语言/Python/命名空间（NameSpace）.md",
+    "03-编程语言/Python/控制流.md",
+    "03-编程语言/Python/字典（dict）.md",
+    "03-编程语言/Python/生成器（Generator）.md",
+    "03-编程语言/Python/迭代器（Iterator）.md",
+    "03-编程语言/Python/装饰器（decorator）.md",
+    "03-编程语言/Python/作用域（Scope）.md",
+    "03-编程语言/Python/模块",
+    "03-编程语言/Python/脚本（Script）.md",
     "03-编程语言/Rust/Cargo/Cargo.lock.md",
     "03-编程语言/Rust/Cargo/Registry（注册表，仓库）.md",
     "03-编程语言/Rust/引用（reference）.md",
@@ -267,31 +267,13 @@
     "03-编程语言/Rust/Cargo",
     "00-Inbox/TOML.md",
     "未命名.md",
-    "03-编程语言/Rust/基础语法.md",
     "03-编程语言/Rust/rust macro（rust宏）.md",
     "03-编程语言/Rust/Rustc.md",
-    "03-编程语言/Rust/安装.md",
-    "03-编程语言/Rust/Rustup.md",
-    "03-编程语言/Rust/rust-analyzer.md",
-    "03-编程语言/Python/模块（Module）.md",
     "03-编程语言/Rust",
-    "03-编程语言/Python/命名空间（NameSpace）.md",
-    "03-编程语言/Python/脚本（Script）.md",
-    "03-编程语言/Python/作用域（Scope）.md",
-    "03-编程语言/Python/类.md",
-    "01-Areas/AI/Agent/LangChain.md",
     "03-编程语言/Python",
     "未命名",
     "03-编程语言",
-    "00-Inbox 1/Git SSH设置代理.md",
-    "00-Inbox 1/npx.md",
-    "00-Inbox 1/简历.md",
-    "00-Inbox 1/安装Miniconda.md",
-    "00-Inbox 1/node包管理器.md",
     "00-Inbox 1",
-    "01-Areas/AI/Agent",
-    "02-Projects/借贷项目",
-    "01-Areas/金融",
-    "01-Areas/AI"
+    "01-Areas/AI/Agent"
   ]
 }

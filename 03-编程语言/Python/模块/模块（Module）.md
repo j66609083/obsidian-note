@@ -46,9 +46,21 @@ importlib.reload(modulename);
 模块搜索路径：
 1. 先查内建模块（built-in module）
 	- 内建模块的模块名存储在`sys.builtin_module_names`
-2. 
+2. 再查`sys.path`定义的路径
+	- 当前目录（当没有指定python脚本时）
+	- python脚本所在的目录
+	- [`PYTHONPATH`](https://docs.python.org/3/using/cmdline.html#envvar-PYTHONPATH)环境变量，和`PATH`环境变量配置格式差不多
+	- 依赖于安装的默认值（按惯例包含`site-packages`目录，由site模块处理）
+- 
 
 
 `builtins`
 `__main__`
 
+
+
+Python 将每个模块的编译版本缓存到 `__pycache__` 目录下，文件名为 `module._version_.pyc` ，其中版本号编码了编译文件的格式；它通常包含 Python 版本号。这种命名约定允许来自不同版本和不同 Python 版本的编译模块共存。
+
+Python 在两种情况下不会检查缓存。首先，它总是重新编译直接从命令行加载的模块，并且不存储结果。其次，如果没有源模块，它也不会检查缓存。为了支持非源（仅编译）的发行版，编译后的模块必须位于源目录中，并且不能存在源模块。
+
+一个程序从 `.pyc` 文件读取和从 `.py` 文件读取运行速度是一样的； `.pyc` 文件唯一更快的地方是加载的速度。
