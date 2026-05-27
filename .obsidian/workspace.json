@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-编程语言/Rust/数据类型.md",
+                "file": "01-Areas/AI/Agent/商业银行公司agent平台架构解读.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据类型"
+              "title": "商业银行公司agent平台架构解读"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-编程语言/Rust/数据类型.md",
+                "file": "01-Areas/AI/Agent/商业银行公司agent平台架构解读.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "数据类型 的大纲"
+              "title": "商业银行公司agent平台架构解读 的大纲"
             }
           },
           {
@@ -237,43 +237,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edef55dcba1ed66a",
+  "active": "c118e0759ac25c28",
   "lastOpenFiles": [
+    "01-Areas/AI/BYOK.md",
+    "01-Areas/AI/Agent/商业银行公司agent平台架构解读.md",
+    "03-编程语言/Python/装饰器（decorator）.md",
+    "01-Areas/AI/Agent/LangGraph.md",
+    "01-Areas/AI/Agent/LangChain.md",
+    "03-编程语言/Python/随笔.md",
+    "03-编程语言/Python/生成器（Generator）.md",
+    "03-编程语言/Python/列表（list）.md",
+    "03-编程语言/Python/字典（dict）.md",
+    "03-编程语言/Python/元组（tuple）.md",
+    "03-编程语言/Python/类.md",
+    "03-编程语言/Python/命名空间（NameSpace）.md",
+    "03-编程语言/Python/迭代器（Iterator）.md",
+    "03-编程语言/Python/第三方库/pydantic（类型校验）.md",
+    "03-编程语言/Python/控制流.md",
+    "03-编程语言/Python/包管理器.md",
+    "03-编程语言/Python/PEP（Python增强提案）.md",
+    "03-编程语言/Python/第三方库",
+    "03-编程语言/Python/包（package）.md",
+    "03-编程语言/Python/模块/模块（Module）.md",
+    "03-编程语言/Python/模块/标准模块.md",
     "03-编程语言/Rust/基础语法.md",
     "03-编程语言/Rust/数据类型.md",
     "03-编程语言/Solidity/未命名.md",
     "03-编程语言/Rust/作用域.md",
-    "03-编程语言/Rust/Cargo/Cargo（构建系统和包管理器）.md",
-    "03-编程语言/Python/模块/模块（Module）.md",
+    "03-编程语言/Rust/Cargo（包管理器）/Cargo（构建系统和包管理器）.md",
     "03-编程语言/Solidity",
     "03-编程语言/Golang",
-    "03-编程语言/Python/模块/标准模块.md",
-    "03-编程语言/Python/包（package）.md",
     "03-编程语言/Python/闭包.md",
-    "03-编程语言/Python/类.md",
-    "03-编程语言/Python/命名空间（NameSpace）.md",
-    "03-编程语言/Python/控制流.md",
-    "03-编程语言/Python/字典（dict）.md",
-    "03-编程语言/Python/生成器（Generator）.md",
-    "03-编程语言/Python/迭代器（Iterator）.md",
-    "03-编程语言/Python/装饰器（decorator）.md",
-    "03-编程语言/Python/作用域（Scope）.md",
     "03-编程语言/Python/模块",
-    "03-编程语言/Python/脚本（Script）.md",
-    "03-编程语言/Rust/Cargo/Cargo.lock.md",
-    "03-编程语言/Rust/Cargo/Registry（注册表，仓库）.md",
-    "03-编程语言/Rust/引用（reference）.md",
-    "03-编程语言/Rust/变体（variant）.md",
-    "03-编程语言/Rust/Crates.md",
-    "03-编程语言/Rust/Cargo/Cargo.toml.md",
-    "03-编程语言/Rust/Cargo",
-    "00-Inbox/TOML.md",
-    "未命名.md",
+    "03-编程语言/Rust/Cargo（包管理器）",
     "03-编程语言/Rust",
     "03-编程语言/Python",
     "未命名",
     "03-编程语言",
-    "00-Inbox 1",
-    "01-Areas/AI/Agent"
+    "00-Inbox 1"
   ]
 }

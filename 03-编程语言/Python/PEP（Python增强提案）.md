@@ -1,0 +1,3 @@
+Python Enhancement Proposal
+
+它是一份设计文档，描述了Python的新功能或其过程或环境。它还为Python社区提供信息。PEP是提议新功能的主要机制

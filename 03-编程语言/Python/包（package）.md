@@ -49,7 +49,8 @@ from sound.effects.echo import echofilter
 当导入包时，Python会搜索`sys.path`上的目录，寻找包的子目录
 
 
-`from package import *` 从包中导入`*`时，可以在包下的`__init__.py`代码中定义一个名为`__all__`的列表来限制被导入的模块名称列表
+`from package import *` 从包中导入`*`时，可以在包下的`__init__.py`代码中定义一个名为`__all__`的列表来限制被导入的模块名称列表，如果没有定义`__all__`变量，只会导入`__init__.py`内定义的所有不以`_`开头的名称（使用`__all__`变量可以简化API，将子包中的类和函数提升到包的顶层）
+
 
 
 

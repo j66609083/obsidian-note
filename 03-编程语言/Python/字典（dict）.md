@@ -22,3 +22,20 @@ item = d.popitem() # 删除并返回最后插入的一对键值
 
 copy() 浅拷贝
 deepcopy() 深拷贝
+
+
+
+### 解包（dict unpacking）
+```python
+a = {  
+"name": "Jason",  
+"age": 18  
+}  
+  
+# 把 a 这个 dict 里的所有键值对展开到新 dict 里，属于浅拷贝
+b = {  
+**a  
+}  
+  
+print(b)
+```
